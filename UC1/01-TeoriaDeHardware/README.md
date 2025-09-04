@@ -1,21 +1,70 @@
-intel i?- lga1200 (10-11)
+📊 Comparativo Técnico – CPUs High-End
+🎮 Ryzen 7 9800X3D vs Ryzen 9 9950X
 
-intel i?- lga1700 (12-14)
+9800X3D (8c/16t, 96 MB L3 3D V-Cache) → Superior em jogos devido a:
 
-intel ultra ?- lga 1851 (200)
+Latência menor (1 CCD + V-Cache).
 
-amd ryzen (1000 ate 5000)
+Cache massivo reduzindo acessos à RAM.
 
-amd ryzen (7000- 9000)
+Jogos não escalam além de 8 núcleos de forma eficiente.
 
-Processador Intel Core i5 10400, Placa Mãe Colorful CH510M-E M.2 V20, Chipset H510, Intel LGA 1200
+9950X (16c/32t, 80 MB L3) → Melhor em produtividade pesada:
 
-Processador Intel Core i9 14900F Placa Mãe Asus TUF Gaming B760M-PLUS WI-FI II, Chipset B760, Intel LGA 1700
+Render, compilação, edição de vídeo, IA local.
 
-processador Intel Core Ultra 9 285 Placa Mãe Gigabyte B860M AORUS ELITE WIFI6E, Chipset B860, Intel LGA 1851
+Clocks:
 
-Processador AMD Ryzen 5 5600 Placa Mãe ASRock B550M Steel Legend, Chipset B550, AMD AM4
+9950X: 4.3 / 5.7 GHz
 
-Processador AMD Ryzen 9 9900X Placa Mãe Asus ROG Strix X870-F Gaming WiFi, Chipset X870, AMD AM5
+9800X3D: 4.7 / 5.2 GHz (+V-Cache compensa menor boost).
 
-cache uma latencia menor ou seja mais desenpenho memoria ram mais latencia 
+Preço (BR):
+
+9950X ≈ R$ 3.999
+
+9800X3D ≈ R$ 3.099 → melhor custo/benefício em jogos.
+
+Resolução:
+
+1080p/1440p (GPU high-end) → 9800X3D lidera.
+
+4K → diferença mínima (GPU limitada).
+
+⚡ AMD Ryzen 9 9950X3D
+
+16c/32t – até 5.7 GHz
+
+AM5, sem cooler incluso
+
+Uso: multitarefa extrema e workloads pesados
+
+📌 Intel Ultra 9 285
+
+Arquitetura híbrida: 8 P-cores + 16 E-cores = 24c/24t
+
+Frequência: até 5.6 GHz
+
+Cache: 36 MB L3
+
+Consumo: 65W base / 182W turbo
+
+RAM: até 192 GB DDR5 (6400 MHz, ECC)
+
+GPU integrada: até 8K@60Hz, Quick Sync, 4 monitores
+
+NPU: 13 TOPS (IA dedicada)
+
+Expansões: PCIe 5.0/4.0, Thunderbolt 4, 24 linhas
+
+Soquete: FCLGA1851, TjMax 105°C
+
+Extras: Thread Director, vPro, AES, TDT
+
+✅ Resumo Final
+
+Ryzen 9800X3D → Melhor escolha para gamers (cache, latência, custo/benefício).
+
+Ryzen 9950X → Superior em produtividade multi-thread extrema.
+
+Intel Ultra 9 285 → Mais completo em IA, eficiência, GPU integrada e segurança.
