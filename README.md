@@ -1,3 +1,7 @@
+![GitHub License](https://img.shields.io/github/license/danilimasv/senac-tatuape?style=for-the-badge)
+
+
+
 # senac-tatuape
 Repositório de arquivos das aulas do Curso Técnico em Informática do SENAC Tatuapé
 
